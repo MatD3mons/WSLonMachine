@@ -15,3 +15,5 @@ apt-get update && apt-get install libgl1
 
 % pour les applciation & interface
 sudo apt install x11-apps -y
+
+% for pytorch
